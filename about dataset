@@ -1,0 +1,24 @@
+About Dataset
+Overview
+This dataset captures the relationship between social media usage, screen-time behavior, and daily lifestyle factors such as sleep duration and interaction quality. It is useful for analyzing patterns that may influence mental well-being, digital habits, and behavioral trends among users.
+
+The data contains individual-level entries with details like daily screen time, social media time, positive vs. negative interactions, demographic information, and sleep hours. It is ideal for:
+
+Exploratory data analysis
+Behavioral pattern modeling
+Correlation studies
+Prediction tasks (e.g., sleep prediction, mood trend analysis)
+Student ML/NLP/data analytics projects
+
+Column Description:
+Column Name	Description
+person_name	Name or identifier of the person.
+age	Age of the individual in years.
+date	The date on which the data was recorded.
+gender	Gender of the user (Male, Female, Other).
+platform	Primary social media platform the person uses.
+daily_screen_time_min	Total daily device screen time in minutes.
+social_media_time_min	Total time spent on social media in minutes per day.
+negative_interactions_count	Number of negative or harmful interactions experienced online.
+positive_interactions_count	Number of positive or supportive interactions experienced online.
+sleep_hours	Total number of hours the person sleeps per day.
