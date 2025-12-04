@@ -552,9 +552,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### Project Team
 
 **Lead Data Scientist**  
-📧 Email: [your.email@example.com](datascientistbahaaelkady@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/bahaamohammedelkady/))  
-🐙 GitHub: [@yourusername]([https://github.com/yourusername](https://github.com/BahaaMohammedElkady))  
+📧 Email: datascientistbahaaelkady@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/bahaamohammedelkady/
+🐙 GitHub: https://github.com/yourusername](https://github.com/BahaaMohammedElkady
 
 ### Project Links
 
