@@ -553,8 +553,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Lead Data Scientist**  
 📧 Email: datascientistbahaaelkady@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/bahaamohammedelkady/  
-🐙 GitHub: https://github.com/yourusername](https://github.com/BahaaMohammedElkady
+🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/bahaamohammedelkady/](https://www.linkedin.com/in/bahaamohammedelkady/)  
+🐙 GitHub: https://github.com/BahaaMohammedElkady
 
 ### Project Links
 
