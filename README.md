@@ -552,13 +552,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### Project Team
 
 **Lead Data Scientist**  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)  
+📧 Email: [your.email@example.com](datascientistbahaaelkady@gmail.com)  
+🔗 LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/bahaamohammedelkady/))  
+🐙 GitHub: [@yourusername]([https://github.com/yourusername](https://github.com/BahaaMohammedElkady))  
 
 ### Project Links
 
-- **Repository**: [https://github.com/yourusername/social-media-mental-health-analysis](https://github.com/yourusername/social-media-mental-health-analysis)
+- **Repository**: [https://github.com/yourusername/social-media-mental-health-analysis]([https://github.com/yourusername/social-media-mental-health-analysis](https://github.com/BahaaMohammedElkady/Social-Media-Mental-Health-Indicators-Dataset))
 - **Documentation**: [Project Wiki](https://github.com/yourusername/social-media-mental-health-analysis/wiki)
 - **Issues**: [Bug Tracker](https://github.com/yourusername/social-media-mental-health-analysis/issues)
 
